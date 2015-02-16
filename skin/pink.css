@@ -1,0 +1,97 @@
+/* ==============================================================
+
+Template name : Gotte multi purpose landing page with flat design
+Categorie : Landing page
+Author : Nce18cex
+Version : v1.0.0
+Created : 1 January 2014
+Last update : 12 January 2014
+
+-----------------------------------------------------------------
+CSS structure
+-----------------------------------------------------------------
+
+01. Primary color
+02. Secondary color
+03. Tertiary color
+
+============================================================== */
+
+/*
+Primary color
+======================= */
+.info-act:hover,
+.info-act:focus,
+.info-act:active,
+.subfooter a,
+.clent-info a{
+	color:#e45969;
+}
+
+#home,
+.btn-primary,
+#services,
+.caption-bg,
+footer,
+.carousel-indicators .active,
+.flex-control-paging li a:hover,
+.flex-control-paging li a.flex-active,
+div.pp_default .pp_close:hover{
+	background-color:#e45969;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active{
+	background-color:#d74c5c;
+}
+
+/*
+Secondary color
+======================= */
+#about,
+#contact,
+.btn-secondary,
+.service-icon.secondary-icon{
+	background-color:#a975b1;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active{
+	background-color:#9c68a4;
+}
+
+.service-icon.secondary-icon{
+	border-color:#a26bab;
+}
+
+/*
+Tertiary color
+======================= */
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-nav li a:focus,
+.navbar-inverse .navbar-nav li a:active{
+	color:#fafcc7;
+}
+
+.navbar-inverse .navbar-nav li a.selected,
+.navbar-inverse .navbar-nav li a.selected:hover,
+.navbar-inverse .navbar-nav li a.selected:focus,
+.navbar-inverse .navbar-nav li a.selected:active,
+.btn-tertiary,
+.service-icon.tertiary-icon,
+.subscribe-button{
+	background-color:#fafcc7;
+}
+
+.btn-tertiary:hover,
+.btn-tertiary:focus,
+.btn-tertiary:active,
+.subscribe-button:hover{
+	background-color:#eaecaf;
+}
+
+.service-icon.tertiary-icon{
+	border-color:#edefad;
+}
